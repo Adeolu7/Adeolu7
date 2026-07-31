@@ -2,10 +2,11 @@
 
 Cybersecurity Engineer | AppSec & Infrastructure Security | SAST/DAST/SCA/OAST/IAST/WAF/RASP, SIEM/EDR, IAM
 
-- I am currently working on Malware Mobile App Security Testing. [SkillChain](https://skillchainhub.netlify.app) web3 Networking Mobile App Integrated with Solana
+- Founder [SkillChain](https://skillchainhub.netlify.app) web3 Networking Mobile App Integrated with Solana
+- Currently working on the Security Testing of an Encrypted Mobile App.
 - Check out some projects [here](https://drive.google.com/drive/folders/116zfgeWgY9qHe3cP8sDMMLSFN1oPcS2D?usp=sharing)
-- I am active on bounty and audit platforms like [hackerone](https://hackerone.com/sirg47?type=user), [Cantina](https://cantina.xyz/leaderboard)
-- I am looking to collaborate with Solana dApp store co-developers
+- I am active on bug bounty and audit platforms like [hackerone](https://hackerone.com/sirg47?type=user), [Cantina](https://cantina.xyz/leaderboard)
+- I am looking to collaborate with co-developers to deploy on Solana dApp store
 - Send me a mail on h4cker4u@proton.me
 
 
